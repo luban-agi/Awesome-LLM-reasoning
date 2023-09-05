@@ -36,8 +36,8 @@ Yu F, Zhang H, Wang B* [[abs](https://arxiv.org/abs/2303.14725)]
 
 
 ## 🎉 Contributors
-
 <a href="https://github.com/luban-agi/Awesome-Tool-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=luban-agi/Awesome-LLM-reasoning"/>
+  <img src="https://contrib.rocks/image?repo=luban-agi/Awesome-Tool-Learning"/>
 
 </a>
+
