@@ -97,7 +97,12 @@ Awesome papers on LLM reasoning.
 - **Learning to decompose: Hypothetical question decomposition based on comparable texts** 2022.10 <br />
 *Ben Zhou, Kyle Richardson, Xiaodong Yu, Dan Roth* [[abs](https://arxiv.org/abs/2210.16865)]
 
+### 💪 Reasoning Enhancement for Small LM
+Objective: Enhance the Reasoning capability of small-scale LM models (<10B) and improve their performance on tasks such as mathematical reasoning, symbolic reasoning, common-sense reasoning, and task planning to achieve a level comparable to that of large-scale models (>100B).
 
+#### Distillation
+- **Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step** 2023.06 <br />
+*Liunian Harold Li, Jack Hessel, Youngjae Yu, Xiang Ren, Kai-Wei Chang, Yejin Choi* [[abs](https://arxiv.org/abs/2306.14050)]
 
 <!---
 ## 🎉 Contributors
