@@ -23,6 +23,7 @@ Awesome papers on LLM reasoning.
   - [📌 Backward Reasoning ](#-backward-reasoning)
     - [Backward Chaining](#-backward-chaining)
     - [Question Decomposition](#-question-decomposition)
+  - [💪 Reasoning Enhancement for Small LM ](#-reasoning-enhancement-for-small-lm)
 <!--- [📱 Applications](#-applications)  -->
 <!--- [🎉 Contributors](#-contributors) -->
 
@@ -103,6 +104,14 @@ Objective: Enhance the Reasoning capability of small-scale LM models (<10B) and 
 #### Distillation
 - **Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step** 2023.06 <br />
 *Liunian Harold Li, Jack Hessel, Youngjae Yu, Xiang Ren, Kai-Wei Chang, Yejin Choi* [[abs](https://arxiv.org/abs/2306.14050)]
+
+- **Large Language Models Are Reasoning Teachers** 2023.06 <br />
+*Namgyu Ho, Laura Schmid, Se-Young Yun* [[abs](https://arxiv.org/abs/2212.10071)]
+
+
+- **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes** 2023.05 <br />
+*Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister* [[abs](https://arxiv.org/abs/2305.02301)]
+
 
 <!---
 ## 🎉 Contributors
