@@ -10,7 +10,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/luban-agi/Awesome-LLM-reasoning) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/last-commit/luban-agi/Awesome-LLM-reasoning) 
+<!---![](https://img.shields.io/github/last-commit/luban-agi/Awesome-LLM-reasoning) -->
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 Awesome papers on LLM reasoning.
@@ -42,6 +42,18 @@ Awesome papers on LLM reasoning.
 ### 🌟 Graph of Thought
 - **Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**, 2023.08 <br />
 *Fanglong Yao, Changyuan Tian, Jintao Liu, Zequn Zhang, Qing Liu, Li Jin, Shuchao Li, Xiaoyu Li, Xian Sun* [[abs](https://arxiv.org/abs/2308.06207)]
+
+- **Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models**, 2023.05 <br />
+*Yao Yao, Zuchao Li, Hai Zhao* [[abs](https://arxiv.org/abs/2305.16582)]
+
+- **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, 2023.08 <br />
+*Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk, Torsten Hoefler* [[abs](https://arxiv.org/abs/2308.09687)]
+
+- **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought** 2023.08 <br />
+*Bin Lei, pei-Hung Lin, Chunhua Liao, Caiwen Ding* [[abs](https://arxiv.org/abs/2308.08614)]
+
+- **MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models** 2023.08 <br />
+*Yilin Wen, Zifeng Wang, Jimeng Sun* [[abs](https://arxiv.org/abs/2308.09729)]
 
 <!---
 ## 🎉 Contributors
