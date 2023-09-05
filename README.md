@@ -21,12 +21,12 @@ Awesome papers on LLM reasoning.
   - [📑 Survey](#-survey)
   - [🌟 Graph of Thought](#-graph-of-thought)
   - [📌 Backward Reasoning ](#-backward-reasoning)
-    - [Backward Chaining](#-backward-chaining)
-    - [Question Decomposition](#-question-decomposition)
+    - [Backward Chaining](#backward-chaining)
+    - [Question Decomposition](#question-decomposition)
   - [💪 Reasoning Enhancement for Small LM ](#-reasoning-enhancement-for-small-lm)
-    - [Distillation](#-distillation)
-    - [Step-aware Reasoning](#-step-aware-reasoning)
-    - [Self-Training](#-self-training)
+    - [Distillation](#distillation)
+    - [Step-aware Reasoning](#step-aware-reasoning)
+    - [Self-Training](#self-training)
 <!--- [📱 Applications](#-applications)  -->
 <!--- [🎉 Contributors](#-contributors) -->
 
