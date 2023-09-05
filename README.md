@@ -54,7 +54,25 @@ Awesome papers on LLM reasoning.
 
 - **MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models** 2023.08 <br />
 *Yilin Wen, Zifeng Wang, Jimeng Sun* [[abs](https://arxiv.org/abs/2308.09729)]
+### 💡 With Graph
+- **Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs** 2021.04 <br />
+*Jiaao Chen, Diyi Yang* [[abs](https://arxiv.org/abs/2308.06207)]
 
+### 📌 Backward Reasoning 
+#### Backward Chaining
+- **METGEN: A module-based entailment tree generation framework for answer explanation** 2022.05 <br />
+*Ruixin Hong, Hongming Zhang, Xintong Yu, Changshui Zhang* [[abs](https://arxiv.org/abs/2205.02593)]
+
+- **LAMBADA: backward chaining for automated reasoning in natural language** 2022.12 <br />
+*Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran* [[abs](https://arxiv.org/abs/2212.13894)]
+
+- **Entailer: Answering questions with faithful and truthful chains of reasoning** 2022.10 <br />
+*Oyvind Tafjord, Bhavana Dalvi Mishra, Peter Clark* [[abs](https://arxiv.org/abs/2210.12217)]
+
+- **Interpretable proof generation via iterative backward reasoning** 2022.05 <br />
+*Hanhao Qu, Yu Cao, Jun Gao, Liang Ding, Ruifeng Xu* [[abs](https://arxiv.org/abs/2205.10714)]
+
+#### Question Decomposition
 <!---
 ## 🎉 Contributors
 <a href="https://github.com/luban-agi/Awesome-Tool-Learning/graphs/contributors">
