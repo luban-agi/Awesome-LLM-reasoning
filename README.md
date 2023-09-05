@@ -73,9 +73,14 @@ Awesome papers on LLM reasoning.
 *Hanhao Qu, Yu Cao, Jun Gao, Liang Ding, Ruifeng Xu* [[abs](https://arxiv.org/abs/2205.10714)]
 
 #### Question Decomposition
--**Multi-hop Reading Comprehension through Question Decomposition and Rescoring** 2019.06
+- **Multi-hop Reading Comprehension through Question Decomposition and Rescoring** 2019.06 <br />
 *Sewon Min, Victor Zhong, Luke Zettlemoyer, Hannaneh Hajishirzi* [[abs](https://arxiv.org/abs/1906.02916)]
 
+- **Is a question decomposition unit all we need** 2022.05 <br />
+*Pruthvi Patel, Swaroop Mishra, Mihir Parmar, Chitta Baral* [[abs](https://arxiv.org/abs/2205.12538)]
+
+- **Unsupervised question decomposition for question answering** 2020.02 <br />
+*Ethan Perez, Patrick Lewis, Wen-tau Yih, Kyunghyun Cho, Douwe Kiela* [[abs](https://arxiv.org/abs/2002.09758)]
 
 
 
