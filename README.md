@@ -20,6 +20,9 @@ Awesome papers on LLM reasoning.
 - [📚 Papers](#-papers)
   - [📑 Survey](#-survey)
   - [🌟 Graph of Thought](#-graph-of-thought)
+  - [📌 Backward Reasoning ](#-backward-reasoning)
+    - [Backward Chaining](#-backward-chaining)
+    - [Question Decomposition](#-question-decomposition)
 <!--- [📱 Applications](#-applications)  -->
 <!--- [🎉 Contributors](#-contributors) -->
 
@@ -90,6 +93,10 @@ Awesome papers on LLM reasoning.
 
 - **Least-to-most prompting enables complex reasoning in large language models** 2022.05 <br />
   *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi*  [[abs](https://arxiv.org/abs/2205.10625)]
+
+- **Learning to decompose: Hypothetical question decomposition based on comparable texts** 2022.10 <br />
+*Ben Zhou, Kyle Richardson, Xiaodong Yu, Dan Roth* [[abs](https://arxiv.org/abs/2210.16865)]
+
 
 
 <!---
