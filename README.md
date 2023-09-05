@@ -73,6 +73,12 @@ Awesome papers on LLM reasoning.
 *Hanhao Qu, Yu Cao, Jun Gao, Liang Ding, Ruifeng Xu* [[abs](https://arxiv.org/abs/2205.10714)]
 
 #### Question Decomposition
+-**Multi-hop Reading Comprehension through Question Decomposition and Rescoring** 2019.06
+*Sewon Min, Victor Zhong, Luke Zettlemoyer, Hannaneh Hajishirzi* [[abs](https://arxiv.org/abs/1906.02916)]
+
+
+
+
 <!---
 ## 🎉 Contributors
 <a href="https://github.com/luban-agi/Awesome-Tool-Learning/graphs/contributors">
