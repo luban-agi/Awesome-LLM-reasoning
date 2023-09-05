@@ -82,6 +82,14 @@ Awesome papers on LLM reasoning.
 - **Unsupervised question decomposition for question answering** 2020.02 <br />
 *Ethan Perez, Patrick Lewis, Wen-tau Yih, Kyunghyun Cho, Douwe Kiela* [[abs](https://arxiv.org/abs/2002.09758)]
 
+- **Text modular networks: Learning to decompose tasks in the language of existing models** 2021.04 <br />
+*Tushar Khot, Daniel Khashabi, Kyle Richardson, Peter Clark, Ashish Sabharwal* [[abs](https://arxiv.org/abs/2009.00751)]
+
+- **Measuring and narrowing the compositionality gap in language models** 2022.10 <br />
+*Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis*  [[abs](https://arxiv.org/abs/2210.03350)]
+
+- **Least-to-most prompting enables complex reasoning in large language models** 2022.05 <br />
+  *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi*  [[abs](https://arxiv.org/abs/2205.10625)]
 
 
 <!---
