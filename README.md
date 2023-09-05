@@ -34,10 +34,10 @@ Yu F, Zhang H, Wang B* [[abs](https://arxiv.org/abs/2303.14725)]
 - **Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**, 2023.08 <br />
 	Fanglong Yao, Changyuan Tian, Jintao Liu, Zequn Zhang, Qing Liu, Li Jin, Shuchao Li, Xiaoyu Li, Xian Sun* [[abs](https://arxiv.org/abs/2308.06207)]
 
-
+<!---
 ## 🎉 Contributors
 <a href="https://github.com/luban-agi/Awesome-Tool-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=luban-agi/Awesome-Tool-Learning"/>
 
 </a>
-
+-->
