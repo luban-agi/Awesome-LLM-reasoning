@@ -24,6 +24,9 @@ Awesome papers on LLM reasoning.
     - [Backward Chaining](#-backward-chaining)
     - [Question Decomposition](#-question-decomposition)
   - [💪 Reasoning Enhancement for Small LM ](#-reasoning-enhancement-for-small-lm)
+    - [Distillation](#-distillation)
+    - [Step-aware Reasoning](#-step-aware-reasoning)
+    - [Self-Training](#-self-training)
 <!--- [📱 Applications](#-applications)  -->
 <!--- [🎉 Contributors](#-contributors) -->
 
@@ -132,6 +135,18 @@ Objective: Enhance the Reasoning capability of small-scale LM models (<10B) and 
 
 - **Making Large Language Models Better Reasoners with Step-Aware Verifier** 2022.06 <br />
 *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen* [[abs](https://arxiv.org/abs/2206.02336)]
+
+
+####  Self-Training
+
+- **STaR: Bootstrapping Reasoning With Reasoning** 2022.03 <br />
+*Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman* [[abs](https://arxiv.org/abs/2203.14465)]
+
+
+- **Large Language Models Can Self-improve** 2022.10 <br />
+*Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han* [[abs](https://arxiv.org/abs/2210.11610)]
+
+
 
 
 <!---
