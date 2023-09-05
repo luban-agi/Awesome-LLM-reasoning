@@ -108,9 +108,30 @@ Objective: Enhance the Reasoning capability of small-scale LM models (<10B) and 
 - **Large Language Models Are Reasoning Teachers** 2023.06 <br />
 *Namgyu Ho, Laura Schmid, Se-Young Yun* [[abs](https://arxiv.org/abs/2212.10071)]
 
-
 - **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes** 2023.05 <br />
 *Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister* [[abs](https://arxiv.org/abs/2305.02301)]
+
+- **Distilling reasoning capabilities into smaller language models** 2023.07 <br />
+*Shridhar K, Stolfo A, Sachan M. Distilling * [[abs](https://aclanthology.org/2023.findings-acl.441.pdf)]
+
+- **Teaching Small Language Models to Reason** 2023.11 <br />
+*Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn* [[abs](https://arxiv.org/abs/2212.08410)]
+
+- **Explanations from Large Language Models Make Small Reasoners Better** 2022.10 <br />
+*Shiyang Li, Jianshu Chen, Yelong Shen, Zhiyu Chen, Xinlu Zhang, Zekun Li, Hong Wang, Jing Qian, Baolin Peng, Yi Mao, Wenhu Chen, Xifeng Yan* [[abs](https://arxiv.org/abs/2210.06726)]
+
+- **PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales** 2022.11 <br />
+*Peifeng Wang, Aaron Chan, Filip Ilievski, Muhao Chen, Xiang Ren* [[abs](https://arxiv.org/abs/2211.01562)]
+
+#### Step-aware Reasoning
+- **Training Verifiers to Solve Math Word Problems** 2021.10 <br />
+*Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman* [[abs](https://arxiv.org/abs/2110.14168)]
+
+- **Solving Math Word Problems via Cooperative Reasoning induced Language Models** 2022.10 <br />
+*Xinyu Zhu, Junjie Wang, Lin Zhang, Yuxiang Zhang, Yongfeng Huang, Ruyi Gan, Jiaxing Zhang, Yujiu Yang* [[abs](https://arxiv.org/abs/2210.16257)]
+
+- **Making Large Language Models Better Reasoners with Step-Aware Verifier** 2022.06 <br />
+*Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen* [[abs](https://arxiv.org/abs/2206.02336)]
 
 
 <!---
