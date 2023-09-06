@@ -10,8 +10,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/luban-agi/Awesome-LLM-reasoning) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-<!---![](https://img.shields.io/github/last-commit/luban-agi/Awesome-LLM-reasoning) -->
 ![](https://img.shields.io/badge/PRs-Welcome-red)
+<!---![](https://img.shields.io/github/last-commit/luban-agi/Awesome-LLM-reasoning) -->
+
 
 Awesome papers on LLM reasoning.
 
