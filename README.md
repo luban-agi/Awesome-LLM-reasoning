@@ -1,4 +1,4 @@
-# Aewsome-LLM-reasoning
+# Aewsome LLM reasoning
 
 <!-- <div style="text-align: center;">
 
