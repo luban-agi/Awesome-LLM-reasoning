@@ -1,4 +1,4 @@
-# Aewsome LLM reasoning
+# Awesome LLM reasoning
 
 <!-- <div style="text-align: center;">
 
