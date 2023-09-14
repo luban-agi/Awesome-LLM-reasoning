@@ -102,6 +102,10 @@ Awesome papers on LLM reasoning.
 - **Learning to decompose: Hypothetical question decomposition based on comparable texts** 2022.10 <br />
 *Ben Zhou, Kyle Richardson, Xiaodong Yu, Dan Roth* [[abs](https://arxiv.org/abs/2210.16865)]
 
+- **Complexity-Based Prompting for Multi-Step Reasoning** 2022.05 <br />
+*Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot* [[abs](https://arxiv.org/abs/2210.00720)]
+
+
 ### 💪 Reasoning Enhancement for Small LM
 Objective: Enhance the Reasoning capability of small-scale LM models (<10B) and improve their performance on tasks such as mathematical reasoning, symbolic reasoning, common-sense reasoning, and task planning to achieve a level comparable to that of large-scale models (>100B).
 
