@@ -38,15 +38,13 @@ Awesome papers on LLM reasoning.
 - **Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models**, 2023.05 <br />
 *Yao Yao, Zuchao Li, Hai Zhao* [[abs](https://arxiv.org/abs/2305.16582)]
     - *This paper proposes a method for Graph of Thoughts (GOT) that focuses on the construction of GOT. Specifically, the method employed in this study is Structure-Aware Abstractive Conversation Summarizationvia Discourse and Action Graphs. The central idea of this paper is to transform the rationale into graph format using the preceding context. However, I believe this approach does not truly embody the essence of GOT, as each node does not represent a distinct thinking step but rather converts the natural language prompt into a graph format. Additionally, the motivation behind this paper is not adequately explained. Although the concept of multimodality is introduced in the study, I do not perceive it as the crux of the GOT problem.*
+    - <p align = "center">   <img src="https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/95a68e1f-d036-4537-af09-b19b02fecd1e" width="700" />     </p>
+
  
 - **Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**, 2023.08 <br />
 *Fanglong Yao, Changyuan Tian, Jintao Liu, Zequn Zhang, Qing Liu, Li Jin, Shuchao Li, Xiaoyu Li, Xian Sun* [[abs](https://arxiv.org/abs/2308.06207)]
- <img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/58afc313-2666-402e-8e7a-855e92cde038)" width="200" />
-
-
-
-  
     - *Similar to "Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models," this paper presents a method for Graph of Thoughts (GOT) by transforming natural language prompts into a graph format. The key distinction lies in the utilization of hypergraphs for data modeling instead of conventional graphs.*
+    - <p align = "center">        <img src="https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/58afc313-2666-402e-8e7a-855e92cde038" width="700" />     </p>
 
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, 2023.08 <br />
 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk, Torsten Hoefler* [[abs](https://arxiv.org/abs/2308.09687)]
