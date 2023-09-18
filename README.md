@@ -43,7 +43,7 @@ Awesome papers on LLM reasoning.
  
 - **Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**, 2023.08 <br />
 *Fanglong Yao, Changyuan Tian, Jintao Liu, Zequn Zhang, Qing Liu, Li Jin, Shuchao Li, Xiaoyu Li, Xian Sun* [[abs](https://arxiv.org/abs/2308.06207)]
-    - *Similar to "Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models," this paper presents a method for Graph of Thoughts (GOT) by transforming natural language prompts into a graph format. The key distinction lies in the utilization of hypergraphs for data modeling instead of conventional graphs.*
+    - *Similar to "Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models," this paper presents a method for Graph of Thoughts (GOT) by transforming natural language prompts into a graph format. The key distinction lies in the utilization of hypergraphs for data modeling instead of conventional graphs. Personal opinion: 1) There is a similar issue as the previous paper, and I personally do not fully agree that a graph-structured prompt represents a true Graph of Thoughts (GOT). Although the perspective presented in this paper can be considered as one viewpoint, my ideal GOT would resemble human-like free thinking. 2) It is not very clear why there is a necessity to utilize hypergraphs for data modeling. The motivation behind this paper seems somewhat vague.*
     - <p align = "center">        <img src="https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/58afc313-2666-402e-8e7a-855e92cde038" width="700" />     </p>
 
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, 2023.08 <br />
