@@ -37,14 +37,16 @@ Awesome papers on LLM reasoning.
 ### 🌟 Graph of Thought
 - **Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models**, 2023.05 <br />
 *Yao Yao, Zuchao Li, Hai Zhao* [[abs](https://arxiv.org/abs/2305.16582)]
-    - *This paper proposes a method for Graph of Thoughts (GOT) that focuses on the construction of GOT. Specifically, the method employed in this study is Structure-Aware Abstractive Conversation Summarizationvia Discourse and Action Graphs. The central idea of this paper is to transform the rationale into graph format using the preceding context. However, I believe this approach does not truly embody the essence of GOT, as each node does not represent a distinct thinking step but rather converts the natural language prompt into a graph format. Additionally, the motivation behind this paper is not adequately explained. Although the concept of multimodality is introduced in the study, I do not perceive it as the crux of the GOT problem.*
     - <p align = "center">   <img src="https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/95a68e1f-d036-4537-af09-b19b02fecd1e" width="700" />     </p>
+    - *This paper proposes a method for Graph of Thoughts (GOT) that focuses on the construction of GOT. Specifically, the method employed in this study is Structure-Aware Abstractive Conversation Summarizationvia Discourse and Action Graphs. The central idea of this paper is to transform the rationale into graph format using the preceding context. However, I believe this approach does not truly embody the essence of GOT, as each node does not represent a distinct thinking step but rather converts the natural language prompt into a graph format. Additionally, the motivation behind this paper is not adequately explained. Although the concept of multimodality is introduced in the study, I do not perceive it as the crux of the GOT problem.*
+   
 
  
 - **Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**, 2023.08 <br />
 *Fanglong Yao, Changyuan Tian, Jintao Liu, Zequn Zhang, Qing Liu, Li Jin, Shuchao Li, Xiaoyu Li, Xian Sun* [[abs](https://arxiv.org/abs/2308.06207)]
-    - *Similar to "Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models," this paper presents a method for Graph of Thoughts (GOT) by transforming natural language prompts into a graph format. The key distinction lies in the utilization of hypergraphs for data modeling instead of conventional graphs. Personal opinion: 1) There is a similar issue as the previous paper, and I personally do not fully agree that a graph-structured prompt represents a true Graph of Thoughts (GOT). Although the perspective presented in this paper can be considered as one viewpoint, my ideal GOT would resemble human-like free thinking. 2) It is not very clear why there is a necessity to utilize hypergraphs for data modeling. The motivation behind this paper seems somewhat vague.*
     - <p align = "center">        <img src="https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/58afc313-2666-402e-8e7a-855e92cde038" width="700" />     </p>
+    - *Similar to "Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models," this paper presents a method for Graph of Thoughts (GOT) by transforming natural language prompts into a graph format. The key distinction lies in the utilization of hypergraphs for data modeling instead of conventional graphs. Personal opinion: 1) There is a similar issue as the previous paper, and I personally do not fully agree that a graph-structured prompt represents a true Graph of Thoughts (GOT). Although the perspective presented in this paper can be considered as one viewpoint, my ideal GOT would resemble human-like free thinking. 2) It is not very clear why there is a necessity to utilize hypergraphs for data modeling. The motivation behind this paper seems somewhat vague.*
+    
 
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, 2023.08 <br />
 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk, Torsten Hoefler* [[abs](https://arxiv.org/abs/2308.09687)]
@@ -58,6 +60,11 @@ Awesome papers on LLM reasoning.
 ### 💡 With Graph
 - **Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs** 2021.04 <br />
 *Jiaao Chen, Diyi Yang* [[abs](https://arxiv.org/abs/2308.06207)]
+
+    - <p align = "center">   <img src="https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/b68240fb-2d55-4664-b3ec-9752f7e797ed" width="400" />     </p>
+    - This article is quite interesting, although it is from 2021, which may be considered early. However, the motivation behind the research is clearly presented. The core idea is to augment text data with two types of graph structures to assist the model in understanding semantics. The paper "Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models" draws inspiration from the approach proposed in this article.
+    - In graph (a), the relationships between sentences in the dialogue are constructed, forming a so-called discourse parsing model. The edges between each pair of nodes represent a classification problem. Specifically, as stated in the paper, "We first pre-train a discourse parsing model (Shi and Huang, 2019) on a human annotated multiparty dialogue corpus (Asher et al., 2016), with 0.775 F1 score on link predictions and 0.557 F1 score on relation classifications."  Graph (b) adopts open information extraction (OpenIE) systems, specifically the implementation from https://github.com/philipperemy/Stanford-OpenIE-Python, to construct a simpler graph. Graph convolutional methods, such as Graph Attention Network, are employed for information extraction from both graphs.
+    
 
 ### 📌 Backward Reasoning 
 #### Backward Chaining
