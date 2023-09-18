@@ -53,9 +53,11 @@ Awesome papers on LLM reasoning.
 
 - **Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models**, 2023.05 <br />
 *Yao Yao, Zuchao Li, Hai Zhao* [[abs](https://arxiv.org/abs/2305.16582)]
+    - *This paper proposes a method for Graph of Thoughts (GOT) that focuses on the construction of GOT. Specifically, the method employed in this study is Structure-Aware Abstractive Conversation Summarizationvia Discourse and Action Graphs. The central idea of this paper is to transform the rationale into graph format using the preceding context. However, I believe this approach does not truly embody the essence of GOT, as each node does not represent a distinct thinking step but rather converts the natural language prompt into a graph format. Additionally, the motivation behind this paper is not adequately explained. Although the concept of multimodality is introduced in the study, I do not perceive it as the crux of the GOT problem.*
 
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, 2023.08 <br />
 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk, Torsten Hoefler* [[abs](https://arxiv.org/abs/2308.09687)]
+    
 
 - **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought** 2023.08 <br />
 *Bin Lei, pei-Hung Lin, Chunhua Liao, Caiwen Ding* [[abs](https://arxiv.org/abs/2308.08614)]
