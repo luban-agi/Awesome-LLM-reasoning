@@ -38,7 +38,7 @@ Awesome papers on LLM reasoning.
 - **Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models**, 2023.05 <br />
 *Yao Yao, Zuchao Li, Hai Zhao* [[abs](https://arxiv.org/abs/2305.16582)]
     - <p align = "center">   <img src="https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/95a68e1f-d036-4537-af09-b19b02fecd1e" width="700" />     </p>
-    - *This paper proposes a method for Graph of Thoughts (GOT) that focuses on the construction of GOT. Specifically, the method employed in this study is Structure-Aware Abstractive Conversation Summarizationvia Discourse and Action Graphs. The central idea of this paper is to transform the rationale into graph format using the preceding context. However, I believe this approach does not truly embody the essence of GOT, as each node does not represent a distinct thinking step but rather converts the natural language prompt into a graph format. Additionally, the motivation behind this paper is not adequately explained. Although the concept of multimodality is introduced in the study, I do not perceive it as the crux of the GOT problem.*
+    - *This paper proposes a method for Graph of Thoughts (GOT) that focuses on the construction of graph-strucuture data. Specifically, the method employed in this study is Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs. The central idea of this paper is to transform the rationale into graph format using the preceding context. However, I believe this approach does not truly embody the essence of GOT, as each node does not represent a distinct thinking step but rather converts the natural language prompt into a graph format. Additionally, the motivation behind this paper is not adequately explained. Although the concept of multimodality is introduced in the study, I do not perceive it as the crux of the GOT problem.*
    
 
  
@@ -50,6 +50,12 @@ Awesome papers on LLM reasoning.
 
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, 2023.08 <br />
 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk, Torsten Hoefler* [[abs](https://arxiv.org/abs/2308.09687)]
+  - <p align = "center">        <img src="https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/e34146bd-cf1d-4732-b5fc-589a3b82488e" width="500" />     </p>
+  - The core idea of this paper is to define how to construct a graph-structured chain of thoughts. It also introduces the concept of Graph of Operations (GoO), which includes operations such as generate (1-to-many), aggregate (many-to-1), and improve (self-improvement). Each step of reasoning requires the formulation of prompt through instructions and examples.
+  - The proposed approach in this paper is comprehensive, and the writing is well-done. However, there are several issues:
+    - The entire graph is static and predefined.
+    - It relies on a well-defined scoring function, which is heavily task-dependent.
+    - The paper does not elaborate on how to delete nodes. Although a definition is provided, the actual execution does not consider node deletion. This aligns with the first point, as the graph structure is predefined, and node deletion was not considered during the design phase
     
 
 - **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought** 2023.08 <br />
