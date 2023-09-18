@@ -33,27 +33,15 @@ Awesome papers on LLM reasoning.
 
 ## 📚 Papers
 
-### 📑 Survey
-
-- **Reasoning with Language Model Prompting: A Survey**, 2022.12 <br />
-*Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen* [[abs](https://arxiv.org/abs/2212.09597)]
-
-- **Towards Reasoning in Large Language Models: A Survey**, 2022.12 <br />
-*Jie Huang, Kevin Chen-Chuan Chang* [[abs](https://arxiv.org/abs/2212.10403)]
-
-- **A Survey of Deep Learning for Mathematical Reasoningy**, 2022.12 <br />
-*Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang* [[abs](https://arxiv.org/abs/2212.10535)]
-
-- **Natural Language Reasoning, A Survey**, 2023.03 <br />
-*Fei Yu, Hongbo Zhang, Prayag Tiwari, Benyou Wang* [[abs](https://arxiv.org/abs/2303.14725)]
-
 ### 🌟 Graph of Thought
-- **Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**, 2023.08 <br />
-*Fanglong Yao, Changyuan Tian, Jintao Liu, Zequn Zhang, Qing Liu, Li Jin, Shuchao Li, Xiaoyu Li, Xian Sun* [[abs](https://arxiv.org/abs/2308.06207)]
-
 - **Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models**, 2023.05 <br />
 *Yao Yao, Zuchao Li, Hai Zhao* [[abs](https://arxiv.org/abs/2305.16582)]
     - *This paper proposes a method for Graph of Thoughts (GOT) that focuses on the construction of GOT. Specifically, the method employed in this study is Structure-Aware Abstractive Conversation Summarizationvia Discourse and Action Graphs. The central idea of this paper is to transform the rationale into graph format using the preceding context. However, I believe this approach does not truly embody the essence of GOT, as each node does not represent a distinct thinking step but rather converts the natural language prompt into a graph format. Additionally, the motivation behind this paper is not adequately explained. Although the concept of multimodality is introduced in the study, I do not perceive it as the crux of the GOT problem.*
+ 
+- **Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**, 2023.08 <br />
+*Fanglong Yao, Changyuan Tian, Jintao Liu, Zequn Zhang, Qing Liu, Li Jin, Shuchao Li, Xiaoyu Li, Xian Sun* [[abs](https://arxiv.org/abs/2308.06207)]
+    ![image](https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/a5319a4e-02fa-475c-8ea2-ae3635668eff)
+    - *Similar to "Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models," this paper presents a method for Graph of Thoughts (GOT) by transforming natural language prompts into a graph format. The key distinction lies in the utilization of hypergraphs for data modeling instead of conventional graphs.*
 
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, 2023.08 <br />
 *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, Lukas Gianinazzi, Joanna Gajda, Tomasz Lehmann, Michal Podstawski, Hubert Niewiadomski, Piotr Nyczyk, Torsten Hoefler* [[abs](https://arxiv.org/abs/2308.09687)]
@@ -154,7 +142,19 @@ Objective: Enhance the Reasoning capability of small-scale LM models (<10B) and 
 *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han* [[abs](https://arxiv.org/abs/2210.11610)]
 
 
+### 📑 Survey
 
+- **Reasoning with Language Model Prompting: A Survey**, 2022.12 <br />
+*Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen* [[abs](https://arxiv.org/abs/2212.09597)]
+
+- **Towards Reasoning in Large Language Models: A Survey**, 2022.12 <br />
+*Jie Huang, Kevin Chen-Chuan Chang* [[abs](https://arxiv.org/abs/2212.10403)]
+
+- **A Survey of Deep Learning for Mathematical Reasoningy**, 2022.12 <br />
+*Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang* [[abs](https://arxiv.org/abs/2212.10535)]
+
+- **Natural Language Reasoning, A Survey**, 2023.03 <br />
+*Fei Yu, Hongbo Zhang, Prayag Tiwari, Benyou Wang* [[abs](https://arxiv.org/abs/2303.14725)]
 
 <!---
 ## 🎉 Contributors
