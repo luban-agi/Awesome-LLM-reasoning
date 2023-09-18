@@ -70,6 +70,18 @@ The core ideas of this paper are as follows:
 
 - **MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models** 2023.08 <br />
 *Yilin Wen, Zifeng Wang, Jimeng Sun* [[abs](https://arxiv.org/abs/2308.09729)]
+    - <p align = "center">        <img src="https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/76575179-56b4-4be1-bbd5-7fc3dd7be0ce" width="500" />     </p>
+    - This article does not precisely align with my envisioned concept of Graph of Thoughts (GOT), which involves free thinking similar to human cognition. Instead, it focuses on reasoning with knowledge graphs (KG) or reasoning on graphs. Nevertheless, I believe that this work is solid, as it enables large-scale models to engage in systematic reasoning on graphs/KGs, which is an intriguing pursuit.
+    - Key points: 
+        - The utilization of knowledge graphs is a fundamental aspect of this approach.
+        - The research is focused on specific domains, such as medical question answering, where precision in reasoning is paramount, and knowledge graphs provide substantial assistance.
+        - The transformation of knowledge graph information into natural language is a notable contribution.
+    - Specific steps:
+        - Entity extraction from the given question, followed by querying subgraphs in the knowledge graph based on these entities.
+        - Integration of multiple subgraphs into a comprehensive graph.
+        - Transformation of the constructed graph into natural language form, along with the input question, to create a well-formed prompt that facilitates reasoning along the paths of the graph.
+
+
 ### 💡 With Graph
 - **Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs** 2021.04 <br />
 *Jiaao Chen, Diyi Yang* [[abs](https://arxiv.org/abs/2308.06207)]
