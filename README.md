@@ -60,6 +60,13 @@ Awesome papers on LLM reasoning.
 
 - **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought** 2023.08 <br />
 *Bin Lei, pei-Hung Lin, Chunhua Liao, Caiwen Ding* [[abs](https://arxiv.org/abs/2308.08614)]
+    - <p align = "center">        <img src="https://github.com/luban-agi/Awesome-LLM-reasoning/assets/22321904/01231678-6d72-4aa6-963b-f3e4983975b5" width="500" />     </p>
+    - Similar to the previous paper, this article also demonstrates a well-presented motivation and proposes its own Graph of Thoughts (GOT) approach. However, it seems that this paper has omitted several details, particularly regarding the many-to-one reasoning process. The exact procedure for achieving many-to-one reasoning is not clearly explained.
+The core ideas of this paper are as follows:
+        - Starting from the desired results and backward reasoning to the condition nodes (with some doubts, as evidenced by the example of "Solving High-Degree Polynomial Equations").
+        - Conducting reasoning by first using the Large Language Model (LLM) to calculate paths (resembling actions), and then obtaining new nodes based on the paths and LLM. However, the description provided in this regard is highly unclear, lacking a clear understanding of the specific procedure. As a reviewer, I would likely reject the paper based on this lack of clarity.
+        - Introducing a validator (which can utilize LLM) as an additional component to verify the correctness of the paths.
+    - The paper does not explain the details of the many-to-one reasoning process, which I consider to be the crux of the approach. In the experimental section, the paper reports promising results, surpassing those of the previous approach(TOT).
 
 - **MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models** 2023.08 <br />
 *Yilin Wen, Zifeng Wang, Jimeng Sun* [[abs](https://arxiv.org/abs/2308.09729)]
