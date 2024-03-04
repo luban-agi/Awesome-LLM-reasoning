@@ -157,6 +157,9 @@ Objective: Enhance the Reasoning capability of small-scale LM models (<10B) and 
 *Peifeng Wang, Aaron Chan, Filip Ilievski, Muhao Chen, Xiang Ren* [[abs](https://arxiv.org/abs/2211.01562)]
 
 #### Step-aware Reasoning
+- **Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic** 2024.02 <br />
+*Xufeng Zhao, Mengdi Li, Wenhao Lu, Cornelius Weber, Jae Hee Lee, Kun Chu, Stefan Wermter* [[abs](https://arxiv.org/abs/2309.13339)] [[code](https://github.com/xf-zhao/LoT)]
+
 - **Training Verifiers to Solve Math Word Problems** 2021.10 <br />
 *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman* [[abs](https://arxiv.org/abs/2110.14168)]
 
